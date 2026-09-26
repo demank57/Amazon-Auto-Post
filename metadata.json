@@ -1,0 +1,6 @@
+{
+  "name": "AmzSync - Amazon Social Auto Poster",
+  "description": "Platform otomatisasi cerdas untuk memposting produk Amazon ke media sosial dengan penjadwalan multi-kanal, analitik performa real-time, push notification kampanye, dan optimasi waktu posting berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
